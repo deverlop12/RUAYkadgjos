@@ -1,0 +1,17 @@
+{
+  "name": "LOTTOVIPfkdbjisdnj",
+  "main": "lottovip",
+  "theme": "syntax",
+  "version": "1.1.0",
+  "description": "lottovip โคตรเว็บหวยออนไลน์ที่ยอดนิยมมากที่สุดของคนไทยในที 2022 ด้วยอัตราจ่ายที่มากถึงบาทละ 950",
+  "keywords": [
+    "lottovip",
+	"ซื้อหวยออนไลน์"
+	"หวยออนไลน์"
+  ],
+  "repository": "https://github.com/christythuc149/LOTTOVIPfkdbjisdnj",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
