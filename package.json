@@ -1,15 +1,15 @@
 {
-  "name": "LOTTOVIP โคตรเว็บซื้อหวยออนไลน์ที่คนไทยโคตรนิยมที่สุดในปี 2022 นี้",
-  "main": "lottovip",
+  "name": "RUAY",
+  "main": "ruay",
   "theme": "syntax",
   "version": "1.1.1",
-  "description": "lottovip โคตรเว็บหวยออนไลน์ที่ยอดนิยมมากที่สุดของคนไทยในที 2022 ด้วยอัตราจ่ายที่มากถึงบาทละ 950",
+  "description": "ซื้อหวยออนไลน์ RUAY เว็บยอดนิยม จ่ายสูงสุดสามตัวบาทละ 950 จ่ายหนัก จ่ายจริง จ่ายเต็มที่ตัว ไม่มีอั้น",
   "keywords": [
-    "lottovip",
+    "ruay",
     "ซื้อหวยออนไลน์",
-    "หวยออนไลน์"
+    "เว็บหวยไม่มีอั้น"
   ],
-  "repository": "https://github.com/christythuc149/LOTTOVIPfkdbjisdnj",
+  "repository": "https://github.com/deverlop12/RUAYkadgjos",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
